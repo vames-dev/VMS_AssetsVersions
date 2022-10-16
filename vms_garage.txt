@@ -1,1 +1,1 @@
-{"version":"nil","news":"nil"}
+{"version":"1.0.0","news":"none"}
