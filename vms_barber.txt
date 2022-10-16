@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"none"}
+{"version":"1.0.1","news":"Fixed and added new color variants"}
