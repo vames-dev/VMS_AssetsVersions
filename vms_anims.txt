@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Added ExecuteCommand to anims + notify about no favorites after press"}
+{"version":"1.1.0","news":"Corrected micro-bugs + Added player animation positioning menu"}
