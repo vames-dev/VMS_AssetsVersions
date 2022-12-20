@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Compatibility with fivem-appearance"}
+{"version":"1.0.2","news":"Fixed issues, compatible with custom charcreator"}
