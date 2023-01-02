@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":""}
+{"version":"1.0.1","news":"Fixed /char command for QB-Core"}
