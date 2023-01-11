@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Translation and notify fixed."}
+{"version":"1.0.3","news":"Compatibility with QB-Core and fivem-appearance."}
