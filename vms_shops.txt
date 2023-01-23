@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"Added exports for core"}
+{"version":"1.0.0","news":"Added exports for define core"}
