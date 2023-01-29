@@ -1,1 +1,1 @@
-{"version":"1.0.4","news":"Fixed color change blush and makeup, added hide hud and one arg to triggger"}
+{"version":"1.0.5","news":"Fixed loading gender from trigger args"}
