@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"Compatibility with QB-Core and fivem-appearance."}
+{"version":"1.0.4","news":"Added blushes and fixed hair_color_2 for fivem-appearance."}
