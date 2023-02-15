@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Added vests and fixed wardrobe"}
+{"version":"1.0.2","news":"Fixed changing the texture value to 0 when changing an main item"}
