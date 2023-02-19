@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Added hair overlays, new custom tattoos"}
+{"version":"1.0.3","news":"Added Config.CoreExport and Config.PlayerLogout, fixed issue with ESX skinchanger tattoos"}
