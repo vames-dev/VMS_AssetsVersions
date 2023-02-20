@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Fixed changing the texture value to 0 when changing an main item"}
+{"version":"1.0.3","news":"Fixed skin saving after wearing one of the outfits from the wardrobe for qb-clothing"}
