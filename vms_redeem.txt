@@ -1,1 +1,1 @@
-{"version":"nil","news":"nil"}
+{"version":"1.0.2","news":"Changes to the config, and compatibility with ESXLegacy"}
