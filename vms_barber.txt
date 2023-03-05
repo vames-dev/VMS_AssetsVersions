@@ -1,1 +1,1 @@
-{"version":"1.0.5","news":"Fixed make-up color and added blush first -1 for qb-clothing"}
+{"version":"1.0.6","news":"Fixed hair_color_2 in fivem-appearance"}
