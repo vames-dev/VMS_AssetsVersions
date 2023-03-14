@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Added audio commands spoken by examiner in German language"}
+{"version":"1.0.2","news":"Fixed esx_license xPlayer error"}
