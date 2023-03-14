@@ -1,1 +1,1 @@
-{"version":"1.0.6","news":"Fixed hair_color_2 in fivem-appearance"}
+{"version":"1.0.7","news":"some changes for qb-clothing and fivem-appearance"}
