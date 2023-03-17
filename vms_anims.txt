@@ -1,1 +1,1 @@
-{"version":"1.1.4","news":"Fixed visibility of steering keys of positioning anim and menu accept shared anim"}
+{"version":"1.1.5","news":"Many changes"}
