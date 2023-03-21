@@ -1,1 +1,1 @@
-{"version":"1.0.4","news":"Fixed an issue with the character select button when a notification was displayed"}
+{"version":"1.0.5","news":"The problem with the active camera has been fixed"}
