@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Fixed esx_license xPlayer error"}
+{"version":"1.0.3","news":"Fixed some bugs, added the ability to disable some licenses"}
