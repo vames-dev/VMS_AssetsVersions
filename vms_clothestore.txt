@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"Fixed skin saving after wearing one of the outfits from the wardrobe for qb-clothing"}
+{"version":"1.0.4","news":"Supporting for illenium-appearance"}
