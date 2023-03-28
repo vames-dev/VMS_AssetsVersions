@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"Added Config.CoreExport and Config.PlayerLogout, fixed issue with ESX skinchanger tattoos"}
+{"version":"1.0.5","news":"Supporting for illennium-appearance & some changes in config"}
