@@ -1,1 +1,1 @@
-{"version":"1.0.8","news":"Fixed checking barber job for QB-Core"}
+{"version":"1.0.9","news":"Supporting for illennium-appearance"}
