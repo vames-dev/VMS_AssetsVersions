@@ -1,1 +1,1 @@
-{"version":"1.0.7","news":"Many changes"}
+{"version":"1.0.8","news":"Supporting for illenium-appearance"}
