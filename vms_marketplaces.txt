@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Compatibile with esx_context, targets"}
+{"version":"1.0.2","news":"Added Config.BlacklistedItems, compatibile with ox_lib, changed Config.ESXMenu to Config.Menu"}
