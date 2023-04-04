@@ -1,1 +1,1 @@
-{"version":"1.0.6","news":"Compatible with QB-Core"}
+{"version":"1.0.7","news":"Fixed problems with QB-Core"}
