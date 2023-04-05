@@ -1,1 +1,1 @@
-{"version":"1.1.7","news":"Fixed marker over player while looking for synced anim, added Duration option for synced anims"}
+{"version":"1.1.8","news":"Fixed synchronized animation cancellation"}
