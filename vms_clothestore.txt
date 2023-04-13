@@ -1,1 +1,1 @@
-{"version":"1.0.4","news":"Supporting for illenium-appearance"}
+{"version":"1.0.5","news":"Fix for illenium-appearance, added choice of payment"}
