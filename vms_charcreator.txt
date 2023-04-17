@@ -1,1 +1,1 @@
-{"version":"1.0.8","news":"Supporting for illenium-appearance"}
+{"version":"1.0.9","news":"Added more colors for: hair, beard, eyebrows, chest, eye, fixes for qb-clothing"}
