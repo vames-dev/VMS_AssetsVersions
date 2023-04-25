@@ -1,1 +1,1 @@
-{"version":"1.0.9","news":"Added more colors for: hair, beard, eyebrows, chest, eye, fixes for qb-clothing"}
+{"version":"1.1.0","news":"Added changing the texture value to 0 (e.g tshirt_2) when changing an main item (e.g tshirt_1)"}
