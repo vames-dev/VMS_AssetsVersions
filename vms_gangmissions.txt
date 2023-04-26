@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Improve for QB-Core to load Player gang and vehicle spawns for missions"}
+{"version":"1.0.2","news":"Added ability to set the addition of public ped with missions & required online police officers"}
