@@ -1,1 +1,1 @@
-{"version":"1.0.5","news":"Fix for illenium-appearance, added choice of payment"}
+{"version":"1.0.7","news":"Added Config.Interact and functionality ESX.ShowHelpNotification for esx while not using any textui"}
