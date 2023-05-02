@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Compatible with QB-Core"}
+{"version":"1.0.4","news":"Improved player height range"}
