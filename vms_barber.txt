@@ -1,1 +1,1 @@
-{"version":"1.1.0","news":"Added the remove hats, glasses, and masks while using hairdressing services, so they do not interfere with choosing new styles."}
+{"version":"1.1.1","news":"Added bossmenu, ability set required hair clipper."}
