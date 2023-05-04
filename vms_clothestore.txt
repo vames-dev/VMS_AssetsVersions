@@ -1,1 +1,1 @@
-{"version":"1.0.7","news":"Added Config.Interact and functionality ESX.ShowHelpNotification for esx while not using any textui"}
+{"version":"1.0.8","news":"Added Config.EnableHandsUpButtonUI, Config.HandsUpKey and Config.HandsUpAnimation"}
