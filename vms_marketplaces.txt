@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Added Config.BlacklistedItems, compatibile with ox_lib, changed Config.ESXMenu to Config.Menu"}
+{"version":"1.0.3","news":"Added check that the entered value is not negative, Config.MarketplacesLimitOnMap and Config.MarketplacesLimitPerPlayer"}
