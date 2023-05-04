@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Changed from Config.GiveKeys to Config.GiveKeysBuy, Added Config.GiveKeysTestDrive"}
+{"version":"1.0.3","news":"Added requiredJob & requiredJobGrade to Config.VehicleShops"}
