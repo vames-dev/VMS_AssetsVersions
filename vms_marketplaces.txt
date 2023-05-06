@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"Added check that the entered value is not negative, Config.MarketplacesLimitOnMap and Config.MarketplacesLimitPerPlayer"}
+{"version":"1.0.4","news":"IMPORTANT - The withdraw money bug has been corrected"}
