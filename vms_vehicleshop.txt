@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"Added requiredJob & requiredJobGrade to Config.VehicleShops"}
+{"version":"1.0.4","news":"Fixed a bug with setting up a car dealer only for a job"}
