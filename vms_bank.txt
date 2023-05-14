@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Fixed server side notifications."}
+{"version":"1.0.3","news":"Added logs and fixed some errors."}
