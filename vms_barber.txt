@@ -1,1 +1,1 @@
-{"version":"1.1.1","news":"Added bossmenu, ability set required hair clipper."}
+{"version":"1.1.2","news":"Added Config.EnableShakeCam and fixed some issues."}
