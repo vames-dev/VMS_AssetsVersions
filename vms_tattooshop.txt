@@ -1,1 +1,1 @@
-{"version":"1.0.6","news":"Added bossmenu, ability to set required items to doing tattoos"}
+{"version":"1.0.7","news":"Improved grade checking for employees and fixed bug with seat"}
