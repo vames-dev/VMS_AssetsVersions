@@ -1,1 +1,1 @@
-{"version":"1.0.4","news":"Improved player height range"}
+{"version":"1.0.5","news":"Improved scaling of play button for users of 2K, 4K monitors"}
