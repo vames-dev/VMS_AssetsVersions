@@ -1,1 +1,1 @@
-{"version":"1.1.8","news":"Fixed synchronized animation cancellation"}
+{"version":"1.2.0","news":"Added preview of walking style on virtual ped, added Config.UseCustomQuestionMenu"}
