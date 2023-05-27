@@ -1,1 +1,1 @@
-{"version":"1.0.5","news":"Improved scaling of play button for users of 2K, 4K monitors"}
+{"version":"1.0.6","news":"Fixed the cursor on the registration menu for servers with a loading screen that supports a mouse cursor"}
