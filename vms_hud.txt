@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"Released"}
+{"version":"1.0.1","news":"Added stress, black money, company balance, damage-effect and fixed some issues"}
