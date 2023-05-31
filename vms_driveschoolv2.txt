@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"Fixed some bugs, added the ability to disable some licenses"}
+{"version":"1.0.5","news":"Added Config.EnableMaxSpeedLoop & Config.MaxSpeedLoopTimeout, compatibility with OX_LIB"}
