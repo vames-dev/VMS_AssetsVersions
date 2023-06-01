@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Added stress, black money, company balance, damage-effect and fixed some issues"}
+{"version":"1.0.2","news":"Added job and gang to info hud, fixed loading minimap from game cache"}
