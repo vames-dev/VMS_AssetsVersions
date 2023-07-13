@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"Released"}
+{"version":"1.0.1","news":"Fixed checkpoint for safe landing on helipad in helicopter exam that crashed exam"}
