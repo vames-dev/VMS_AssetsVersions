@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Added job and gang to info hud, fixed loading minimap from game cache"}
+{"version":"1.0.4","news":"Some fixes and new options"}
