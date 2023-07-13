@@ -1,1 +1,1 @@
-{"version":"1.1.2","news":"Added Config.EnableShakeCam and fixed some issues."}
+{"version":"1.1.4","news":"Some fixes and new languages added"}
