@@ -1,1 +1,1 @@
-{"version":"1.0.7","news":"Improved grade checking for employees and fixed bug with seat"}
+{"version":"1.0.8","news":"Many changes, list can be found on discord #updates"}
