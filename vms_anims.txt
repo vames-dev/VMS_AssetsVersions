@@ -1,1 +1,1 @@
-{"version":"1.2.0","news":"Added preview of walking style on virtual ped, added Config.UseCustomQuestionMenu"}
+{"version":"1.2.2","news":"A few changes and fixes"}
