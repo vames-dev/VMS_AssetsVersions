@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"Released"}
+{"version":"1.0.1","news":"Fixed Config.PlayerLogoutServer on qb-core"}
