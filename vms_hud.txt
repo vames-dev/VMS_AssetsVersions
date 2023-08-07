@@ -1,1 +1,1 @@
-{"version":"1.0.4","news":"Some fixes and new options"}
+{"version":"1.0.5","news":"Seatbelt sound, drunk status, key to toggle hud"}
