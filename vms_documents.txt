@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"none"}
+{"version":"1.0.1","news":"Added server-side event to get a document from another player"}
