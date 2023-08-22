@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Fixed checkpoint for safe landing on helipad in helicopter exam that crashed exam"}
+{"version":"1.0.2","news":"Improved exam completion - no longer displays errors for hitting a vehicle after the exam"}
