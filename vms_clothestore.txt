@@ -1,1 +1,1 @@
-{"version":"1.0.8","news":"Added Config.EnableHandsUpButtonUI, Config.HandsUpKey and Config.HandsUpAnimation"}
+{"version":"1.1.2","news":"Fixed the names of elements in the ox_lib context in the Manage clothes option in QB-Core"}
