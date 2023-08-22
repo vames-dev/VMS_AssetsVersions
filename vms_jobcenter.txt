@@ -1,1 +1,1 @@
-{"version":"nil","news":"nil"}
+{"version":"1.0.2","news":"Added Config.UnemployedJob and fixed problem with quit job button"}
