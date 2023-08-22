@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Fixed Config.PlayerLogoutServer on qb-core"}
+{"version":"1.0.2","news":"Added Config.EnableStaminaModifier and fixed some things"}
