@@ -1,1 +1,1 @@
-{"version":"1.0.5","news":"Added Config.EnableMaxSpeedLoop & Config.MaxSpeedLoopTimeout, compatibility with OX_LIB"}
+{"version":"1.0.7","news":"Added function Config.BeforeOpeningMenu and Config.AddLicenseItem, compatibility long distance for Onesync"}
