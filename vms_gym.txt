@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Added Config.EnableStaminaModifier and fixed some things"}
+{"version":"1.0.3","news":"Many changes described on discord"}
