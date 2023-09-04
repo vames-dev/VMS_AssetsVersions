@@ -1,1 +1,1 @@
-{"version":"1.0.6","news":"Some changes described on discord"}
+{"version":"1.0.7","news":"Fixed the problem with buying vehicle with when using option Config.UseRoutingBucketsInShowRoom"}
