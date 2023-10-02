@@ -1,1 +1,1 @@
-{"version":"1.0.5","news":"Seatbelt sound, drunk status, key to toggle hud"}
+{"version":"1.0.7","news":"Updated minimap.gfx, improved vms_hud:removeStress for qb-core"}
