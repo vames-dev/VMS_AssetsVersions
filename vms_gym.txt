@@ -1,1 +1,1 @@
-{"version":"1.0.4","news":"Fix with saving statistics, read on discord"}
+{"version":"1.0.5","news":"Fix for qb-menu and server-side error, added strength auto-removal"}
