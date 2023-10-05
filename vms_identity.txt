@@ -1,1 +1,1 @@
-{"version":"1.0.6","news":"Fixed the cursor on the registration menu for servers with a loading screen that supports a mouse cursor"}
+{"version":"1.0.7","news":"Ability to change date format, add nationality"}
