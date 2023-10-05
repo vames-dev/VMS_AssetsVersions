@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Fixed loading playerdata on QB-Core and warning from ESX about callback request"}
+{"version":"1.0.3","news":"Added param isFirstSpawn to event and export and Config.UseHousingSpawns & Config.OnlyJobsSpawns"}
