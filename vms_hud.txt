@@ -1,1 +1,1 @@
-{"version":"1.0.7","news":"Updated minimap.gfx, improved vms_hud:removeStress for qb-core"}
+{"version":"1.0.8","news":"Fixed map scaling issue and disappearance of default health bars"}
