@@ -1,1 +1,1 @@
-{"version":"1.0.6","news":"Blacklisted some weapons from skill, added hourly memberships, fixed title for qb-menu and ox_lib"}
+{"version":"1.0.7","news":"Fixed hourly memberships for non-business gyms"}
