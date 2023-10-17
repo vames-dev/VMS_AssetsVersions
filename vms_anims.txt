@@ -1,1 +1,1 @@
-{"version":"1.2.3","news":"Many changes and some fixes"}
+{"version":"1.2.4","news":"Fixed sending request for synced aniamation"}
