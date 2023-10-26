@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Added ability to set the addition of public ped with missions & required online police officers"}
+{"version":"1.0.4","news":"Added compatibility with esx_context and ox_lib menu"}
