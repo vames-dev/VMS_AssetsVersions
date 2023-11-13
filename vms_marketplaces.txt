@@ -1,1 +1,1 @@
-{"version":"1.0.5","news":"Added support for ox_target, corrected an error where negative values could be entered on esx_context"}
+{"version":"1.0.6","news":"Fixed Config.Target for newly created marketplaces"}
