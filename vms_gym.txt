@@ -1,1 +1,1 @@
-{"version":"1.0.7","news":"Fixed hourly memberships for non-business gyms"}
+{"version":"1.0.8","news":"Fixed adding of flying skill and fixed condition booster"}
