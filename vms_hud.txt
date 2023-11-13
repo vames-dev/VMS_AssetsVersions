@@ -1,1 +1,1 @@
-{"version":"1.0.9","news":"Some new features and improvements"}
+{"version":"1.1.0","news":"Added compass, fixed Gear for 4k"}
