@@ -1,1 +1,1 @@
-{"version":"1.0.5","news":"Fixed a bug with headlights when changing their color and removed BILL button for client who selects parts"}
+{"version":"1.0.6","news":"Lots of news and changes, check it out on our discord"}
