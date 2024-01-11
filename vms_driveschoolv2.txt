@@ -1,1 +1,1 @@
-{"version":"1.0.8","news":"The problem with the possibility of continuing the practical test with a different vehicle than the one received at the driving school has been fixed."}
+{"version":"1.0.9","news":"Some changes and new language."}
