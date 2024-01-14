@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"Added param isFirstSpawn to event and export and Config.UseHousingSpawns & Config.OnlyJobsSpawns"}
+{"version":"1.0.4","news":"Support for qs-housing, added Config.UseOnlyFirstJoinSelect"}
