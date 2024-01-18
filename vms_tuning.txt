@@ -1,1 +1,1 @@
-{"version":"1.0.8","news":"Fixed QB-Core bug"}
+{"version":"1.0.9","news":"Important fix for ox_lib users"}
