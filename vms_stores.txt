@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Fuel problems corrected"}
+{"version":"1.0.3","news":"A bug 'ESX' on fuel delivery has been fixed"}
