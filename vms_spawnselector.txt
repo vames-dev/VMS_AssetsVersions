@@ -1,1 +1,1 @@
-{"version":"1.0.5","news":"Fixed QB-Core bug"}
+{"version":"1.0.6","news":"Added compatibility with ps-housing, bcs_housing and fixed with qs-housing on qb-core"}
