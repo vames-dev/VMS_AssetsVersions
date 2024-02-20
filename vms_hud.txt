@@ -1,1 +1,1 @@
-{"version":"1.1.3","news":"Some fixes and new option - big minimap"}
+{"version":"1.1.4","news":"Important fix for pause menu bug"}
