@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"A bug 'ESX' on fuel delivery has been fixed"}
+{"version":"1.0.4","news":"Added ability to set custom prices of products by players"}
