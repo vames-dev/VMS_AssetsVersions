@@ -1,1 +1,1 @@
-{"version":"1.1.5","news":"Plastic Surgery, new camera system and many more"}
+{"version":"1.1.8","news":"Added inputs and fixed some issues"}
