@@ -1,1 +1,1 @@
-{"version":"1.0.5","news":"Fixed some issues"}
+{"version":"1.0.6","news":"Fixed a safe robbery without target, fixed a job grade on store purchase"}
