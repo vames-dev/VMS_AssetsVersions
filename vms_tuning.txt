@@ -1,1 +1,1 @@
-{"version":"1.0.9","news":"Important fix for ox_lib users"}
+{"version":"2.0.0","news":"Many changes, read #updates before installing"}
