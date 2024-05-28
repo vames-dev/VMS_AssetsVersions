@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Fixed several bugs and added the ability to require police"}
+{"version":"1.0.2","news":"Fixed a bug regarding Notification when copying data in the configuration menu"}
