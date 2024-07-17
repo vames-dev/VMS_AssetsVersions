@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Fixed a bug regarding Notification when copying data in the configuration menu"}
+{"version":"1.0.3","news":"Several important bugs have been fixed"}
