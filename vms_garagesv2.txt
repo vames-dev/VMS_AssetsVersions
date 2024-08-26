@@ -1,1 +1,1 @@
-{"version":"1.0.4","news":"Bug fixes and some new features"}
+{"version":"1.0.5","news":"Fixed problem with loading vehicles"}
