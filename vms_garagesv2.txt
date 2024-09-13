@@ -1,1 +1,1 @@
-{"version":"1.0.5","news":"Fixed problem with loading vehicles"}
+{"version":"1.0.7","news":"Fixed bug with spawning in underground parking & improved previous fixes"}
