@@ -1,1 +1,1 @@
-{"version":"1.0.7","news":"Fixed bug with spawning in underground parking & improved previous fixes"}
+{"version":"1.0.8","news":"Bug fixes and many new features - Read #updates"}
