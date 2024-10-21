@@ -1,1 +1,1 @@
-{"version":"1.0.8","news":"Fixed adding of flying skill and fixed condition booster"}
+{"version":"2.0.1","news":"Fixed a bug related to the statistics menu and other menus not displaying"}
