@@ -1,1 +1,1 @@
-{"version":"2.0.0","news":"Read #updates"}
+{"version":"2.0.1","news":"Fixed employee-client interaction when using marker access and sending webhooks"}
