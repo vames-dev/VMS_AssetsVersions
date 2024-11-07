@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Fixed document verification and options in config.server.lua"}
+{"version":"1.0.2","news":"Added Config.DistanceToStartPhotosProcess, Config.MaxTimeWalkIn and Config.MaxTimeWalkOut"}
