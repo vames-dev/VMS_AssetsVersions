@@ -1,1 +1,1 @@
-{"version":"2.0.7","news":"Fixed bugs and synchronization of latest options"}
+{"version":"2.0.8","news":"Bug fixes"}
