@@ -1,1 +1,1 @@
-{"version":"1.0.8","news":"Compatibility with vms_cityhall and qb-core heading fix"}
+{"version":"1.0.9","news":"Fixed several bugs and added new options"}
