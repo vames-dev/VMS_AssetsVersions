@@ -1,1 +1,1 @@
-{"version":"1.2.6","news":"Added saveable walk and expression and new exports"}
+{"version":"1.3.0","news":"Many changes #updates"}
