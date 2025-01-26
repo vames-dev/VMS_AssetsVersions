@@ -1,1 +1,1 @@
-{"version":"1.2.0","news":"Read #updates before updating!"}
+{"version":"1.2.1","news":"Patches for gangs and transfers!"}
