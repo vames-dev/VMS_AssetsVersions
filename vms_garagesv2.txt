@@ -1,1 +1,1 @@
-{"version":"1.2.1","news":"Patches for gangs and transfers!"}
+{"version":"1.2.2","news":"Patches for companies/gangs"}
