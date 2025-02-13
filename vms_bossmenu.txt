@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"Added Stash, fixed bugs"}
+{"version":"1.0.4","news":"Fixed the grade change of gang members."}
