@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Added Config.DistanceToStartPhotosProcess, Config.MaxTimeWalkIn and Config.MaxTimeWalkOut"}
+{"version":"1.0.3","news":"New options and enhancements added"}
