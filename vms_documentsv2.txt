@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"New options and enhancements added"}
+{"version":"1.0.4","news":"Modify registerToPickup export for vms_cityhall"}
