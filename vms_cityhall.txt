@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Fixed bug with /checkvin and /hidevin"}
+{"version":"1.0.4","news":"#update"}
