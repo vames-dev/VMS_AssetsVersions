@@ -1,1 +1,1 @@
-{"version":"1.2.2","news":"Patches for companies/gangs"}
+{"version":"1.2.3","news":"Patch for gradesAccess in Predefined Garages"}
