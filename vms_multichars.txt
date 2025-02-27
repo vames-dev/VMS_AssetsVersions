@@ -1,1 +1,1 @@
-{"version":"1.1.7","news":"Some changes and fixes"}
+{"version":"1.1.8","news":"Added auto SQL queries, auto-detect functions"}
