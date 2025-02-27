@@ -1,1 +1,1 @@
-{"version":"1.0.7","news":"Added jail checker and onPlayerSpawned on client-side"}
+{"version":"1.0.8","news":"Patch for ps-housing spawns"}
