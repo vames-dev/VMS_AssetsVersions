@@ -1,1 +1,1 @@
-{"version":"1.0.7","news":"Fixed the problem with buying vehicle with when using option Config.UseRoutingBucketsInShowRoom"}
+{"version":"1.0.8","news":"Protection on OneSync Infinity"}
