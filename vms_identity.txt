@@ -1,1 +1,1 @@
-{"version":"1.0.7","news":"Ability to change date format, add nationality"}
+{"version":"1.0.8","news":"Protection against a common error caused by failure to adjust notifications"}
