@@ -1,1 +1,1 @@
-{"version":"1.0.4","news":"#update"}
+{"version":"1.0.5","news":"Fixed error when using empty_ticket"}
