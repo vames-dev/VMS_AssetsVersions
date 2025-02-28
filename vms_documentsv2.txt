@@ -1,1 +1,1 @@
-{"version":"1.0.4","news":"Modify registerToPickup export for vms_cityhall"}
+{"version":"1.0.5","news":"Fixed getting badgeNumber from vms_bossmenu for QB-Core"}
