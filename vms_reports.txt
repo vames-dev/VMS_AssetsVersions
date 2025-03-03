@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"Fixed server-side problems, added anti-combatlog, "}
+{"version":"1.0.3","news":"Fixed server-side problems, added anti-combatlog"}
