@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Server-side performance, new death check module"}
+{"version":"1.0.3","news":"Fixed server-side problems, added anti-combatlog, "}
