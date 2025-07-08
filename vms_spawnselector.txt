@@ -1,1 +1,1 @@
-{"version":"1.0.8","news":"Patch for ps-housing spawns"}
+{"version":"1.0.9","news":"Added SV.checkToCancel function and support for VMS Housing"}
