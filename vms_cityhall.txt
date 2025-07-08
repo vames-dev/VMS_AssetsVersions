@@ -1,1 +1,1 @@
-{"version":"1.0.5","news":"Fixed error when using empty_ticket"}
+{"version":"1.0.7","news":"Modified addPlayerCustomTaxToPay to add taxes for offline players"}
