@@ -1,1 +1,1 @@
-{"version":"1.3.3","news":"Fixed an issue when bringing a vehicle via phone"}
+{"version":"1.3.4","news":"read #updates"}
