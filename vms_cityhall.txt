@@ -1,1 +1,1 @@
-{"version":"1.0.7","news":"Modified addPlayerCustomTaxToPay to add taxes for offline players"}
+{"version":"1.0.8","news":"Added a search bar to /billings and fixed creating new tax accounts"}
