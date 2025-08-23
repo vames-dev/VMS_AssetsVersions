@@ -1,1 +1,1 @@
-{"version":"1.0.6","news":"Check #updates - Important fix for Weekly Bills"}
+{"version":"1.0.7","news":"Patch: duplicate storage IDs fixed"}
