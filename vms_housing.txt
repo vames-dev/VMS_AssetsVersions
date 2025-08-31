@@ -1,1 +1,1 @@
-{"version":"1.0.7","news":"Patch: duplicate storage IDs fixed"}
+{"version":"1.0.8","news":"Read #updates"}
