@@ -1,1 +1,1 @@
-{"version":"1.0.4","news":"Fixed the grade change of gang members."}
+{"version":"1.0.5","news":"See changelog on Discord"}
