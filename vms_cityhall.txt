@@ -1,1 +1,1 @@
-{"version":"1.0.8","news":"Added a search bar to /billings and fixed creating new tax accounts"}
+{"version":"1.0.9","news":"See changelog on Discord"}
