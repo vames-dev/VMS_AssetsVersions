@@ -1,1 +1,1 @@
-{"version":"1.0.6","news":"See changelog on Discord"}
+{"version":"1.0.7","news":"See changelog on Discord"}
