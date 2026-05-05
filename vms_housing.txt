@@ -1,1 +1,1 @@
-{"version":"1.4.0","news":"IDEA Store update is now live. SQL update required. See Discord for details."}
+{"version":"1.4.1","news":"Bug Fix Patch."}
