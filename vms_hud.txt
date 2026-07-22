@@ -1,1 +1,1 @@
-{"version":"1.1.4","news":"Important fix for pause menu bug"}
+{"version":"1.1.5","news":"Compatibility with VMS Needs"}
