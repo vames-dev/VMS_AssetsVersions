@@ -1,1 +1,1 @@
-{"version":"1.4.4","news":"Improvements and bug fix."}
+{"version":"1.4.5","news":"Added vehicle access, new IPLs, compatibility and more."}
