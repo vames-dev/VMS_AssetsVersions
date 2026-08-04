@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Added Client State Bags, ESX compatibility and more."}
+{"version":"1.0.2","news":"Improvements and compatibility."}
