@@ -1,1 +1,1 @@
-{"version":"2.0.1","news":"Fixed a bug related to the statistics menu and other menus not displaying"}
+{"version":"2.0.2","news":"Added the new UseEquipment export and general code improvements."}
