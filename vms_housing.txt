@@ -1,1 +1,1 @@
-{"version":"1.4.5","news":"Added vehicle access, new IPLs, compatibility and more."}
+{"version":"1.4.6","news":"New audio alarm system for property break-ins, VMS Gym equipment compatibility, configurable motel utility bills, and multiple MLO improvements and fixes."}
