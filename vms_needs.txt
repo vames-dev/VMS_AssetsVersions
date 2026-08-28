@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Improvements and compatibility."}
+{"version":"1.0.3","news":"Added new client & server functions for custom item usage integrations"}
