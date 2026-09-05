@@ -1,1 +1,1 @@
-{"version":"1.4.7","news":"Added sd-phone compatibility and minor improvements & fixes"}
+{"version":"1.4.8","news":"Added Renewed-Weathersync support, improved IDEA furniture validation, and fixed property data not being properly reset"}
