@@ -1,1 +1,1 @@
-{"version":"1.4.9","news":"Fixed critical issues introduced in 1.4.8, improved anti-cheat compatibility, and fixed furniture loading issues"}
+{"version":"1.4.9","news":"Fixed an important issue introduced in 1.4.8, improved anti-cheat compatibility, and fixed furniture loading issues"}
