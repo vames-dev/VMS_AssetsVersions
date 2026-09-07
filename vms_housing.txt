@@ -1,1 +1,1 @@
-{"version":"1.4.8","news":"Added Renewed-Weathersync support, improved IDEA furniture validation, and fixed property data not being properly reset"}
+{"version":"1.4.9","news":"Fixed critical issues introduced in 1.4.8, improved anti-cheat compatibility, and fixed furniture loading issues"}
