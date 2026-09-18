@@ -1,1 +1,1 @@
-{"version":"1.4.9","news":"Fixed an important issue introduced in 1.4.8, improved anti-cheat compatibility, and fixed furniture loading issues"}
+{"version":"1.5.0","news":"Added the new furniture Positioning Menu with precise transform controls and copying support, and fixed Property Creator data being shared between sessions"}
