@@ -1,1 +1,1 @@
-{"version":"1.5.0","news":"Added the new furniture Positioning Menu with precise transform controls and copying support, and fixed Property Creator data being shared between sessions"}
+{"version":"1.5.1","news":"Fixed the Coords Menu blocking the furniture purchase menu when Config.RequirePurchaseFurniture is disabled."}
