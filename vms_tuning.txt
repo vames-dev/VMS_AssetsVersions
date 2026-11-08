@@ -1,1 +1,1 @@
-{"version":"2.1.5","news":"Please read #updates"}
+{"version":"3.0.0","news":"Tuning 3.0 is here! Work Orders, vehicle lifts, dyno tests and custom backfire. See #updates on Discord for details."}
