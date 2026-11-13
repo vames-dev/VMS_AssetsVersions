@@ -1,1 +1,1 @@
-{"version":"1.5.1","news":"Fixed the Coords Menu blocking the furniture purchase menu when Config.RequirePurchaseFurniture is disabled."}
+{"version":"1.5.3","news":"New letterboxes, tenant buyouts, and bulk furniture actions. See #updates for setup instructions."}
