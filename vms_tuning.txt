@@ -1,1 +1,1 @@
-{"version":"3.0.0","news":"Tuning 3.0 is here! Work Orders, vehicle lifts, dyno tests and custom backfire. See #updates on Discord for details."}
+{"version":"3.0.1","news":"Clearer lift controls without target, plus fixes for part installation and the tire smoke color picker. See #updates on Discord."}
