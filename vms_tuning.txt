@@ -1,1 +1,1 @@
-{"version":"3.0.1","news":"Clearer lift controls without target, plus fixes for part installation and the tire smoke color picker. See #updates on Discord."}
+{"version":"3.0.2","news":"Fixed an error when processing customer tuning requests."}
